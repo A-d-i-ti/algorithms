@@ -9,5 +9,13 @@
 
 ##  QUICKSORT 
 
-![image](https://github.com/user-attachments/assets/cd987995-7542-4198-9bc7-93385250fe35)
+Original: {24, 9, 29, 14, 19, 27}
+     pivot = 24
+     ├── Left: {14, 9, 19} → pivot = 14
+     │     ├── Left: {9}
+     │     └── Right: {19}
+     └── Right: {29, 27} → pivot = 29
+           ├── Left: {27}
+           └── Right: {}
+
 
