@@ -6,3 +6,8 @@
 ## INSERTION SORT 
 
 ![image](https://github.com/user-attachments/assets/f123813c-dbfa-4e5c-a835-691127193d2c)
+
+##  QUICKSORT 
+
+![image](https://github.com/user-attachments/assets/cd987995-7542-4198-9bc7-93385250fe35)
+
